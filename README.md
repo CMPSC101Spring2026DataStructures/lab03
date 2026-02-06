@@ -1,4 +1,4 @@
-# # CS101 Spring 2025: Lab 03
+# CS101 Spring 2025: Lab 03
 
 ## Assigned and Due
 
